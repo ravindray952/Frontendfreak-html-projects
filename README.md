@@ -1,5 +1,5 @@
 # Frontendfreak-html-projects
-1. <h1>>first project</h1>
+ <h1>First project</h1>
 <!DOCTYPE html>
 <html lang="en">
   <head>
