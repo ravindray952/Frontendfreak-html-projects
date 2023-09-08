@@ -75,6 +75,52 @@
       </tbody>
     </table>
   </body>
-</html>
 
+ <hr/>   <hr/>
+
+
+ <!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Form</title>
+  </head>
+  <body>
+    <h1>User Registration Form</h1>
+    <form>
+      <label for="Name">Name :</label>
+      <input type="text" id=" Name" />                                <br/> <br />
+      <label for="Email">Email :</label>
+      <input type="text" id="Email" />                                <br/><br />
+      <label for="Password">Password :</label>
+      <input type="text" id="Password" />                               <br><br>
+      <label for="Confirm Password">Confirm Password :</label>
+      <input type="text" id="Confirm Password">                        <br><br>
+      <label for="Date of Birth">Date of Birth : </label>
+      <input type="date" name="" id="Date of Birth">                   <br><br>
+      <label for="">Gender :</label>                            <br>
+       <label for="male">male</label>
+      <input type="radio" name="Gender" id="male">
+      <label for="female">female</label>
+      <input type="radio" name="Gender" id="female">
+      <label for="others">others</label>
+      <input type="radio" name="Gender" id="others">         <br><br>
+
+
+
+      <label for="">Interests :</label>          <br>
+      <label for="music">music</label>
+      <input type="checkbox" name="Interests" id="music">
+      <label for="Sports">Sports</label>
+      <input type="checkbox" name="Interests" id="Sports">
+      <label for="Reading">Reading</label>
+      <input type="checkbox" name="Interests" id="Reading">                  <br><br>
+
+
+      <button type="reset">Reset</button>
+      <button type="submit">Submit</button>
+    </form>
+  </body>
+</html>
 
