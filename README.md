@@ -124,3 +124,50 @@
   </body>
 </html>
 
+<hr/>  <hr/>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1 style="text-align: center;">Ravindra Yadav</h1>
+    <h2>About Me</h2>
+        <p>Certainly! Here's a summary of the introduction for Ravindra Yadav, a frontend developer:
+
+            Ravindra Yadav is a passionate frontend developer with a strong background in web development technologies and design. He excels in creating visually appealing and user-friendly websites, leveraging skills in HTML, CSS, JavaScript, and various frontend frameworks.</p>
+    <h2>Skills :</h2>
+        <ul>
+            <li> <strong>Programimg languages :</strong> C, Java, Python, Data Structures and Algorithms </li>  
+                   <!--  YAHA H5 TAG LGA KR SOCH RHE KM KR LE SIZE TO  EK LINE ME NHI RHRGA SKILL AUR Programimg languages WALI LINE -->
+          <li> <strong>Web Technologies</strong>Html,Css,JavaScript,React js,Redux toolkit</li>
+          <li><strong>Technical Skills:</strong>MY SQL, Networking</li>
+          <li><strong>Operating Systems:</strong> Windows</li>
+        </ul>
+    <h2>Education:</h2>
+           <ul>
+                <li>Bachelor of Technology - Electronics and Communication Engineering, CMR Technical Campus, 2023</li> 
+                <li>Intermediate Education - MPC, Sri Chaitanya Junior College, 2019</li> 
+                <li>Tenth Secondary Education - SSC, Triveni Talent School, 2017</li>
+           </ul>
+    <h2>Projects:</h2>
+            <ul>
+                <li><strong>Heart Disease Prediction using machine-Learning:</strong>The proposed project predicts the chances of heart disease and classifies patient’s risk level by implementing different Machine Learning Algorithms with the help of 14 different parameters related to heart disease.</li>
+                <li><strong>"Smart Dustbin" using Arduino:</strong>This Smart Dustbin sense the person or object using ultrasonic sensor which send the message to Servo Motor using Arduino Uno.
+
+                </li>
+            </ul>
+    <h2>Contact Me:</h2>
+      <label for="Name">Name :</label>
+      <input type="text" id="Name">     <br><br>
+      <label for="Email">Email:</label>
+      <input type="text" id="Email">   <br> <br>
+      <label for="message">message:</label>
+      <input type="text" id="message"> <br><br>
+
+    <input type="submit" value="submit">
+
+</body>
+</html>                                          
